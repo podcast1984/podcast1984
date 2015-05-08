@@ -6,7 +6,7 @@ Somos simplemente personas que trabajamos día a día en temas relacionados con 
 
 Simplemente queremos compartir con vosotros nuestro pequeño punto de vista.
 
-Os aninamos a que de forma <strong>temporal</strong>, no dejéis acceso a vuestro código fuente, versiones compiladas, etc... y pongáis el siguiente manifiesto en vuestros repositorios.
+Os animamos a que de forma <strong>temporal</strong>, no dejéis acceso a vuestro código fuente, versiones compiladas, etc... y pongáis el siguiente manifiesto en vuestros repositorios.
 
 
 <hr>
@@ -70,5 +70,5 @@ b) una contraseña de ordenador, un código de acceso o datos similares que perm
 
 Puede consultarse la versión completa en <a href="http://www.boe.es/buscar/act.php?id=BOE-A-1995-25444">http://www.boe.es/buscar/act.php?id=BOE-A-1995-25444</a>
 
-Sentimos las molestias que podamos ocasionar.
+Sentimos las molestias con esta medida podamos ocasionar.
 #Podcast1984
