@@ -70,5 +70,5 @@ b) una contraseña de ordenador, un código de acceso o datos similares que perm
 
 Puede consultarse la versión completa en <a href="http://www.boe.es/buscar/act.php?id=BOE-A-1995-25444">http://www.boe.es/buscar/act.php?id=BOE-A-1995-25444</a>
 
-Sentimos las molestias con esta medida podamos ocasionar.
+Sentimos las molestias que con esta medida podamos ocasionar.
 #Podcast1984
