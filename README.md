@@ -17,7 +17,7 @@ MANIFIESTO PARA PROYECTOS DE SOFTWARE DE SEGURIDAD:
 
 Temporalmente no se tendrá acceso al código fuente ni a ninguna versión compilada en éste repositorio debido a la reforma aprobada en el Código Penal de España ya que como AUTOR DE UNA HERRAMIENTA DE SEGURIDAD AFECTADA, NO ME CONSIDERO NINGUN DELINCUENTE NI QUIERO INCURRIR EN NINGUN ILICITO.</strong>
 
-Textualmente, citamos los artículos por lo que nos vemos afectados, especialmente el 197ter introducido:
+Textualmente cito los artículos por lo que particularmente me veo afectado, especialmente el 197ter introducido:
 
 <strong>
 CAPÍTULO I
@@ -61,7 +61,7 @@ La pena se impondrá en su mitad superior cuando los hechos hubieran sido cometi
 
 <strong>Artículo 197 ter.</strong>
 
-Será castigado con una pena de prisión de seis meses a dos años o multa de tres a dieciocho meses el que, sin estar debidamente autorizado, produzca, adquiera para su uso, importe o, de cualquier modo, facilite a terceros, con la intención de facilitar la comisión de alguno de los delitos a que se refieren los apartados 1 y 2 del artículo 197 o el artículo 197 bis:
+Será castigado con una pena de prisión de seis meses a dos años o multa de tres a dieciocho meses el que, <strong>sin estar debidamente autorizado, produzca, adquiera para su uso, importe o, de cualquier modo, facilite a terceros, con la intención de facilitar la comisión de alguno de los delitos</strong> a que se refieren los apartados 1 y 2 del artículo 197 o el artículo 197 bis:
 
 a) un programa informático, concebido o adaptado principalmente para cometer dichos delitos; o
 
